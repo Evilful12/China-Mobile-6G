@@ -5338,5 +5338,26 @@
         ]
       }
     }
+  },
+  {
+    "ts": "2026-10-03 13:58:18",
+    "quanguo": {
+      "added": 0,
+      "removed": 1,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [
+        "MobileAI加油包-500元-月包"
+      ],
+      "modified_names": []
+    },
+    "hunan": {
+      "added": 0,
+      "removed": 0,
+      "modified": 0,
+      "added_names": [],
+      "removed_names": [],
+      "modified_names": []
+    }
   }
 ]
